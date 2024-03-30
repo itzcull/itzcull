@@ -1,16 +1,39 @@
-### Hi there 👋
+# Where you can find me
+[My Site](https://itzcull.com)
+[LinkedIn](https://linkedin.com/en/itzcull)
+[Twitter/X](https://twitter.com/itzcull)
+[Instagram](https://instagram.com/itzcull)
+[Telegram](https://t.me/itzcull)
 
-<!--
-**itzcull/itzcull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What I'm building
+[YouQ](https://youq.ai)
 
-Here are some ideas to get you started:
+# What I've built
+[Trip Planner](https://luxuryescapes.com/au/trip-planner/about)
+[Brand Ninja](https://brandninja.ai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Libraries I like
+
+## Frontend
+[TailwindCSS](https://tailwindcss.com/)
+[HeadlessUI](https://headlessui.com/)
+[Floating UI](https://floating-ui.com/)
+[KobalteUI](https://kobalte.dev/)
+
+## Auth
+[Oslo](https://github.com/pilcrowOnPaper/oslo)
+[Lucia](https://github.com/pilcrowOnPaper/oslo)
+[Arctic](https://github.com/pilcrowOnPaper/oslo)
+
+## ORMs
+[Drizzle](https://orm.drizzle.team/)
+[Kysely](https://kysely.dev/)
+
+# UI Renderers & Frameworks I like
+
+## UI Renderers
+[React](https://react.dev)
+[Solid](https://solid.start)
+
+## Frameworks
+[Remix](https://remix.run)
