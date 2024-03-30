@@ -22,8 +22,8 @@
 
 ## Auth
 - [Oslo](https://github.com/pilcrowOnPaper/oslo)
-- [Lucia](https://github.com/pilcrowOnPaper/oslo)
-- [Arctic](https://github.com/pilcrowOnPaper/oslo)
+- [Lucia](https://github.com/lucia-auth/lucia)
+- [Arctic](https://github.com/pilcrowOnPaper/arctic)
 
 ## ORMs
 - [Drizzle](https://orm.drizzle.team/)
@@ -38,3 +38,4 @@
 ## Frameworks
 - [Remix](https://remix.run)
 - [Solid Start](https://start.solidjs.com/getting-started/what-is-solidstart)
+- [Fresh](https://fresh.deno.dev/)
