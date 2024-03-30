@@ -40,10 +40,16 @@
 - [Solid Start](https://start.solidjs.com/getting-started/what-is-solidstart)
 - [Fresh](https://fresh.deno.dev/)
 
-# Infra Tools
+# Infrastructure & Tools
 ## IaC
-[SST](https://sst.dev)
-[Pulumni](https://www.pulumi.com/)
+- [SST](https://sst.dev)
+- [Pulumni](https://www.pulumi.com/)
 
 ## Database
-[PlanetScale](https://planetscale.com/)
+- [PlanetScale](https://planetscale.com/)
+- Probably solutions from AWS, GCP, Azure
+
+## Platforms & Hosting
+- [Cloudflare](https://www.cloudflare.com/)
+- [Railway](https://railway.app)
+- [Fly.io](https://fly.io/)
